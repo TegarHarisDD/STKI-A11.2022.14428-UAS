@@ -1,7 +1,6 @@
 ---
 
 # Klasifikasi Berita Indonesia menggunakan Machine Learning
-**Oleh: [Nama Lengkap]**
 
 ## 1. Tentang Project
 Project ini bertujuan untuk mengembangkan sistem klasifikasi otomatis untuk berita berbahasa Indonesia ke dalam beberapa kategori seperti finance, teknologi, olahraga, otomotif, travel, makanan, kesehatan, pendidikan, dan properti menggunakan teknik machine learning.
