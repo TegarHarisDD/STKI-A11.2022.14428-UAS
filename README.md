@@ -26,7 +26,12 @@ Project ini bertujuan untuk mengembangkan sistem klasifikasi otomatis untuk beri
 ## 3. Dataset dan Preprocessing
 
 ### Tentang Dataset
--Scrapping berita dari Detik
+- Scrapping berita dari Detik
+- Proses EDA dan Features
+- Analisis distribusi kategori
+- Analisis panjang teks
+- Text preprocessing (cleaning, tokenization, stopwords removal, stemming)
+- Feature extraction menggunakan TF-IDF
 
 ## Cara Penggunaan
 1. Unduh folder projek STKI-A11.2022.14428-UAS.
