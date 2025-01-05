@@ -26,10 +26,7 @@ Project ini bertujuan untuk mengembangkan sistem klasifikasi otomatis untuk beri
 ## 3. Dataset dan Preprocessing
 
 ### Tentang Dataset
-- **Jumlah data**: [jumlah]
-- **Kategori**: 9 kategori berita
-- **Sumber**: [sumber dataset]
-- **Format**: CSV (judul, konten, kategori)
+-Scrapping berita dari Detik
 
 ## Cara Penggunaan
 1. Unduh folder projek STKI-A11.2022.14428-UAS.
