@@ -1,5 +1,3 @@
-Terima kasih atas screenshot-nya. Saya melihat file struktur proyek Anda. Untuk memperbaiki dokumentasi repository, Anda bisa mengikuti struktur berikut, menghilangkan bagian *Latihan* (karena itu bukan bagian dari folder proyek), serta memastikan penjelasan terkait file dan fungsinya mencerminkan isi repository. Berikut adalah versi yang diperbarui:  
-
 ---
 
 # Klasifikasi Berita Indonesia menggunakan Machine Learning
