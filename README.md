@@ -2,7 +2,7 @@
 
 # Klasifikasi Berita Indonesia
 
-## 1. Tentang Project
+## Tentang Project
 Project ini bertujuan untuk mengembangkan sistem klasifikasi otomatis untuk berita berbahasa Indonesia ke dalam beberapa kategori seperti finance, teknologi, olahraga, otomotif, travel, makanan, kesehatan, pendidikan, dan properti menggunakan teknik machine learning KNN, SVM, dan Random Forest.
 
 ### Identitas Project
@@ -11,7 +11,7 @@ Project ini bertujuan untuk mengembangkan sistem klasifikasi otomatis untuk beri
 - **Framework & Library**: scikit-learn, NLTK, Sastrawi
 - **Dataset**: Kumpulan berita Indonesia dari berbagai sumber
 
-## 2. Ringkasan Project
+## Ringkasan Project
 
 ### Permasalahan
 - Banyaknya berita online yang perlu dikategorikan secara manual
@@ -23,7 +23,9 @@ Project ini bertujuan untuk mengembangkan sistem klasifikasi otomatis untuk beri
 - Membandingkan performa berbagai algoritma machine learning
 - Mencapai akurasi klasifikasi yang optimal
 
-## 3. Dataset dan Preprocessing
+## Proses
+
+![diagram](diagram.png)
 
 - Scrapping berita dari Detik
 - Proses EDA dan Features
