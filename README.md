@@ -25,7 +25,6 @@ Project ini bertujuan untuk mengembangkan sistem klasifikasi otomatis untuk beri
 
 ## 3. Dataset dan Preprocessing
 
-### Tentang Dataset
 - Scrapping berita dari Detik
 - Proses EDA dan Features
 - Analisis distribusi kategori
