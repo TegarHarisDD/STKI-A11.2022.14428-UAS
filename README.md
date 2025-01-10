@@ -9,7 +9,7 @@ Project ini bertujuan untuk mengembangkan sistem klasifikasi otomatis untuk beri
 - **Nama Project**: Klasifikasi Berita Indonesia
 - **Bahasa Pemrograman**: Python 3.10
 - **Framework & Library**: scikit-learn, NLTK, Sastrawi
-- **Dataset**: Kumpulan berita Indonesia dari berbagai sumber
+- **Dataset**: Kumpulan berita Indonesia dari detik
 
 ## Ringkasan Project
 
